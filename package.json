@@ -1,0 +1,12 @@
+{
+  "name": "Watermark_App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aleks-sobiecka/Watermark_App.git",
+  "author": "Aleksandra Sobiecka <aleks.sobiecka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
